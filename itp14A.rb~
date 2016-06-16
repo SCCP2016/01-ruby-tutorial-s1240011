@@ -1,0 +1,12 @@
+a, b = STDIN.gets.split.map(&:to_i)
+
+
+puts
+
+a / b
+
+a % b
+
+roun(5)
+a / b
+
